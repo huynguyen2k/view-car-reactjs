@@ -1,0 +1,110 @@
+[
+    {
+      "id": 1,
+      "title": "Crystal Black",
+      "type": "Pearl",
+      "img": "./assets/images/cars/icons/icon-black.jpg",
+      "color": "Black",
+      "price": "19,550",
+      "engineType": "In-Line 4-Cylinder",
+      "displacement": "1996 cc",
+      "horsepower": "158 @ 6500 rpm",
+      "torque": "138 lb-ft @ 4200 rpm",
+      "redline": "6700 rpm",
+      "wheels": [
+        {
+          "idWheel": 1,
+          "srcImg": "./assets/images/cars/images-black/images-black-1/civic-1.jpg"
+        },
+        {
+          "idWheel": 2,
+          "srcImg": "./assets/images/cars/images-black/images-black-2/civic-1.jpg"
+        },
+        {
+          "idWheel": 3,
+          "srcImg": "./assets/images/cars/images-black/images-black-3/civic-1.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Modern Steel",
+      "type": "Metallic",
+      "img": "./assets/images/cars/icons/icon-steel.jpg",
+      "color": "Steel",
+      "price": "20,550",
+      "engineType": "In-Line 4-Cylinder",
+      "displacement": "1996 cc",
+      "horsepower": "158 @ 6500 rpm",
+      "torque": "138 lb-ft @ 4200 rpm",
+      "redline": "6700 rpm",
+      "wheels": [
+        {
+          "idWheel": 1,
+          "srcImg": "./assets/images/cars/images-steel/images-steel-1/civic-1.jpg"
+        },
+        {
+          "idWheel": 2,
+          "srcImg": "./assets/images/cars/images-steel/images-steel-2/civic-1.jpg"
+        },
+        {
+          "idWheel": 3,
+          "srcImg": "./assets/images/cars/images-steel/images-steel-3/civic-1.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Lunar Silver",
+      "type": "Metallic",
+      "img": "./assets/images/cars/icons/icon-silver.jpg",
+      "color": "Silver",
+      "price": "21,550",
+      "engineType": "In-Line 4-Cylinder",
+      "displacement": "1996 cc",
+      "horsepower": "158 @ 6500 rpm",
+      "torque": "138 lb-ft @ 4200 rpm",
+      "redline": "6700 rpm",
+      "wheels": [
+        {
+          "idWheel": 1,
+          "srcImg": "./assets/images/cars/images-silver/images-silver-1/civic-1.jpg"
+        },
+        {
+          "idWheel": 2,
+          "srcImg": "./assets/images/cars/images-silver/images-silver-2/civic-1.jpg"
+        },
+        {
+          "idWheel": 3,
+          "srcImg": "./assets/images/cars/images-silver/images-silver-3/civic-1.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Rallye Red",
+      "type": "Metallic",
+      "img": "./assets/images/cars/icons/icon-red.jpg",
+      "color": "Red",
+      "price": "22,550",
+      "engineType": "In-Line 4-Cylinder",
+      "displacement": "1996 cc",
+      "horsepower": "158 @ 6500 rpm",
+      "torque": "138 lb-ft @ 4200 rpm",
+      "redline": "6700 rpm",
+      "wheels": [
+        {
+          "idWheel": 1,
+          "srcImg": "./assets/images/cars/images-red/images-red-1/civic-1.jpg"
+        },
+        {
+          "idWheel": 2,
+          "srcImg": "./assets/images/cars/images-red/images-red-2/civic-1.jpg"
+        },
+        {
+          "idWheel": 3,
+          "srcImg": "./assets/images/cars/images-red/images-red-3/civic-1.jpg"
+        }
+      ]
+    }
+  ]
